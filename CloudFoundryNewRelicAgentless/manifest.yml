@@ -1,0 +1,6 @@
+---
+applications:
+- name: cloudfoundrynewrelicagentless
+  memory: 512m
+  stack: windows2012R2
+  buildpack: binary_buildpack
