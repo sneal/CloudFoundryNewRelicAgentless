@@ -5,4 +5,4 @@ set NEWRELIC_HOME=%~dp0newrelic
 set NEWRELIC_INSTALL_PATH=%~dp0newrelic
 set SystemDrive=C:
 
-..\tmp\lifecycle\WebAppServer.exe
+.cloudfoundry\hwc.exe
